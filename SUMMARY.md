@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [📚 DLML Wiki Officiel](README.md)
+* [📦 Votre premier commencement](votre-premier-commencement.md)
