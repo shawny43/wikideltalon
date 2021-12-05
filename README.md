@@ -1,5 +1,6 @@
 ---
-coverY: 0
+coverY: 268.8776541961577
+cover: .gitbook/assets/wp2815279-gmod-darkrp-wallpaper.jpg
 ---
 
 # 📚 DLML Wiki Officiel
