@@ -1,14 +1,14 @@
 ---
-coverY: 268.8776541961577
 cover: .gitbook/assets/wp2815279-gmod-darkrp-wallpaper.jpg
+coverY: 268.8776541961577
 ---
 
-# 📚 DLML Wiki Officiel
+# 📚 Deltalon: Life Mayhem Legacy Core Game
 
-{% hint style="info" %}
-Ce jeu s'agit d'un mod pour Garry's Mod et il est requis pour jouer. Et doit contenir les fichiers essentiels de Counter Strike Source.
+{% hint style="warning" %}
+This is a core mod for Garry's Mod and Source SDK wich is required to run the core features.
 {% endhint %}
 
-## Bienvenue à bords!
+## Getting Started
 
-En travers notre Wiki, nous vous guiderons durant toute l'expérience auquel vous irez apprendre d'avantage sur notre jeu, le fonctionnement et le comportement ainsi les astuces auquel on peut vous aider.
+Our guides will help you to build mods, gamemodes and more from our DLML Core features. You may needs to start by gettings some requirements to build your own.

@@ -1,2 +1,0 @@
-# 🌐 Encyclopédie du jeu
-
